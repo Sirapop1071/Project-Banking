@@ -1,7 +1,7 @@
 # Project-Banking
-การใช้งานโปรแกรม<br>
-![T1](img/T1.jpg)<br>
-ในส่วนของหน้า Login User = admin , Password = admin
+การใช้งานโปรแกรม
+![T1](img/T1.jpg)
+ในส่วนของหน้า Login User = admin , Password = admin<br>
 
 
 ![T2](img/T2.jpg)<br>
@@ -14,13 +14,12 @@
 
 
 
-![T4](img/T4.jpg)<br>
-ยกตัวอย่างเลือกแบบ SavingsAccount
+![T4](img/T4.jpg)
+ยกตัวอย่างเลือกแบบ SavingsAccount<br>
 
 
-![T5](img/T5.jpg)<br>
-DisplayList สามารถใช้ดูหลงจากเราAdd Accountเรียบร้อยแล้ว สามมารถใช้ดูเลขID เพื่อใช้สำหรับ ฝากและถอนเงิน
-
+![T5](img/T5.jpg)
+DisplayList สามารถใช้ดูหลงจากเราAdd Accountเรียบร้อยแล้ว สามมารถใช้ดูเลขID เพื่อใช้สำหรับ ฝากและถอนเงิน<br>
 
 
 
