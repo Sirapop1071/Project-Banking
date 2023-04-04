@@ -1,25 +1,25 @@
 # Project-Banking
 การใช้งานโปรแกรม
 ![T1](img/T1.jpg)
-![]ในส่วนของหน้า Login User = admin , Password = admin
+ในส่วนของหน้า Login User = admin , Password = admin<br>
 
 
 ![T2](img/T2.jpg)
-![]หน้า Menu เราสามารถเลือกได้ว่าจะใช้ฟังชั่นไหน
+หน้า Menu เราสามารถเลือกได้ว่าจะใช้ฟังชั่นไหน<br>
 
 
 
 ![T3](img/T3.jpg)
-![]ถ้าเลือก Add Account ก็จะมีให้เลือก 3 แบบ
+ถ้าเลือก Add Account ก็จะมีให้เลือก 3 แบบ<br>
 
 
 
 ![T4](img/T4.jpg)
-![]ยกตัวอย่างเลือกแบบ SavingsAccount
+ยกตัวอย่างเลือกแบบ SavingsAccount<br>
 
 
 ![T5](img/T5.jpg)
-![]DisplayList สามารถใช้ดูหลงจากเราAdd Accountเรียบร้อยแล้ว สามมารถใช้ดูเลขID เพื่อใช้สำหรับ ฝากและถอนเงิน
+DisplayList สามารถใช้ดูหลงจากเราAdd Accountเรียบร้อยแล้ว สามมารถใช้ดูเลขID เพื่อใช้สำหรับ ฝากและถอนเงิน<br>
 
 
 
