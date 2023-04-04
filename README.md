@@ -1,3 +1,3 @@
 # Project-Banking
 การใช้งานโปรแกรม
-![T1](D1.png)
+![T1](D1.jpg)
